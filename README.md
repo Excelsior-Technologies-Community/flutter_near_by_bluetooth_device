@@ -37,7 +37,7 @@ dependencies:
 ### Using GitHub (Recommended during development) :
 ```yaml
 dependencies:
-  nearby_bluetooth_scanner:
+  flutter_near_by_bluetooth:
     git:
       url: https://github.com/<your-github>/flutter_near_by_bluetooth.git
 ```
