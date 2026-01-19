@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nearby_bluetooth_scanner/src/models/scan_result_model.dart';
+import 'package:flutter_nearby_bluetooth_scanner/nearby_bluetooth_scanner.dart';
 
 class DeviceTile extends StatelessWidget {
   final ScanResultModel device;
