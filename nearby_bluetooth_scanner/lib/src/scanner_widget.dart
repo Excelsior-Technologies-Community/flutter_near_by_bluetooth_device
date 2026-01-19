@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_blue_plus/flutter_blue_plus.dart';
-import 'package:flutter_nearby_bluetooth_scanner/src/widgets/device_tile.dart';
+import 'package:nearby_bluetooth_scanner/src/widgets/device_tile.dart';
 import 'bluetooth_manager.dart';
 import 'models/scan_result_model.dart';
 
